@@ -3,5 +3,5 @@ Identification of Myenteric Ganglia in Histopathology Images using Vision Transf
 
 ## Project Details
 Authors:
-Anthony Fuller
-Youssef Megahed
+* Anthony Fuller
+* Youssef Megahed
